@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: id_test
+  checksum: b26a33662c8b4e9f640e1d0e089a98216b8783f96bbe395a86244e02a9d57c4d
+- filename: id_test.pub
+  checksum: 8d76c30c99f6cdfd0f50090c12042b70fa14f5bb90b5b15e0c135a0d93273244
